@@ -1,9 +1,9 @@
 # AMT. Creacion de etiquetas para Machine learning.
-Estebitan, Tomasiño. Deberías seguir el siguiente tutorial para ayudarme con los peces nuevamente. En esta ocasión, utilizaremos un software, que deben instalar. Por favor, sigan el siguiente tutorial al pie de la letra.
+Estebitan, Tomasiño. Deberan seguir el siguiente tutorial para ayudarme con los peces nuevamente. En esta ocasión, utilizaremos un software, que deben instalar. Por favor, sigan el siguiente tutorial al pie de la letra.
 
-## Instacion de git en windows.
+## Instalacion de git en windows.
 
-Primero deben instalar **git** en sus pcs. Para eso vaya [aqui](https://gitforwindows.org/) y lo descargan y lo instalan. Luego en el buscandor de windowns escriben 'git', y luego entran a Git bash y escriben cada comando uno por uno. Para ejecutar el comando solo deben presionar enter.
+Primero deben instalar **git** en sus pcs. Para eso vayan [aqui](https://gitforwindows.org/) y lo descargan y lo instalan. Luego en el buscandor de windowns escriben 'git', y luego entran a "Git bash" y escriben cada comando uno por uno. Para ejecutar el comando solo deben presionar enter.
 
 + `cd Desktop`
 + `mkdir fotos_peces`
@@ -16,7 +16,7 @@ Primero deben instalar **git** en sus pcs. Para eso vaya [aqui](https://gitforwi
 
 + si todo esta bien, en el escritorio de sus pcs deberian tener una carpeta llamada fotos_peces, adentro tienen dos carpetas con sus nombres, estas son las fotos que cada uno va trabajar.
 
-## Instacion de Anaconda.
+## Instalacion de Anaconda.
 
 Anaconda en un paquete de herramientas construidas alrededor de **python**. **Python** es un lenguaje de programacion muy poderoso que permite contruir algoritmos de machine learning([ver](http://garisplace.com/ch_2.html)
 ), construir paginas web ([ver](http://garisplace.com/betting)), construir aplicaciones([ver](https://github.com/gariciodaro/AMT)), y todo lo que se les ocurra, aprendan esto seran imparables como yo. Pasos para instalar anaconda:
