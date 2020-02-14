@@ -18,10 +18,9 @@ Primero deben instalar **git** en sus pcs. Para eso vayan [aqui](https://gitforw
 
 ## Instalacion de Anaconda.
 
-Anaconda en un paquete de herramientas construidas alrededor de **python**. **Python** es un lenguaje de programacion muy poderoso que permite contruir algoritmos de machine learning([ver](http://garisplace.com/ch_2.html)
-), construir paginas web ([ver](http://garisplace.com/betting)), construir aplicaciones([ver](https://github.com/gariciodaro/AMT)), y todo lo que se les ocurra, aprendan esto seran imparables como yo. Pasos para instalar anaconda:
+Anaconda en un paquete de herramientas construidas alrededor de **python**. **Python** es un lenguaje de programacion muy poderoso que permite contruir algoritmos de machine learning ([ver](http://garisplace.com/ch_2.html)), construir paginas web ([ver](http://garisplace.com/betting)), construir aplicaciones ([ver](https://github.com/gariciodaro/AMT)), y todo lo que se les ocurra, aprendan esto, y seran imparables como yo. Pasos para instalar anaconda:
 
-+ entren aqui: [https://www.anaconda.com/distribution/#download-section](https://www.anaconda.com/distribution/#download-section), descarguen(click download) e luego instalen(next a todo).
++ entren aqui: [https://www.anaconda.com/distribution/#download-section](https://www.anaconda.com/distribution/#download-section), descarguen(click download) e luego instalen (le dan next a todo).
 
 <img src="http://garisplace.com/help_col/im1.png" />
 
@@ -36,7 +35,7 @@ Anaconda en un paquete de herramientas construidas alrededor de **python**. **Py
 
 <img src="http://garisplace.com/help_col/im3.png" />
 
-+ Cuando termine la instalacion cierren todo. y abran nuevamente una terminal de anaconda (escriban en buscador de windows "anaconda" y entren al anaconda power shell, ya esto lo habian hecho). Una vez ahi, escriban los siguientes comandos uno por uno.
++ Cuando termine la instalacion cierren todo. y abran nuevamente una terminal de anaconda (escriban en el buscador de windows "anaconda" y entren al anaconda power shell, ya esto lo habian hecho). Una vez ahi, escriban los siguientes comandos uno por uno.
 
 + `cd .\Desktop\fotos_peces\`
 + `conda activate image_annotation`
@@ -44,7 +43,7 @@ Anaconda en un paquete de herramientas construidas alrededor de **python**. **Py
 
 <img src="http://garisplace.com/help_col/im5.png" />
 
-Luego del ultimo comando deberia abrise el sofware que van a usar. Le dan "Open Dir" y seleccionan su nombre (esteban o tomas):
+Luego del ultimo comando deberia abrise el software que van a usar. Le dan "Open Dir" y seleccionan su nombre (esteban o tomas):
 
 <img src="http://garisplace.com/help_col/im13.png" />
 
@@ -52,8 +51,13 @@ Luego del ultimo comando deberia abrise el sofware que van a usar. Le dan "Open 
 
 <img src="http://garisplace.com/help_col/im7.png" />
 
-+ Luego le dan guardar, y pasan a la siguiente foto. Cuando se cierren y para volver a iniciar, de nuevo hacen en la terminal:
++ Luego le dan guardar, y pasan a la siguiente foto. Cuando cierren, y quieran volver a iniciar, deben repetir los siguientes pasos en la terminal de anaconda:
 
 + `cd .\Desktop\fotos_peces\`
 + `conda activate image_annotation`
 + `labelImg`
+
+Muchas gracias a ambos, y no duden en preguntarme si tienen dudas.
+
+Best,
+Gari.
